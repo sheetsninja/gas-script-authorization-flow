@@ -1,6 +1,6 @@
 /**
  * @OnlyCurrentDoc
- * Remove if you will be accessing other spreadsheets
+ * Remove this line if you will be accessing other spreadsheets
  */
 
 //**************************************************************************************************************************** */
